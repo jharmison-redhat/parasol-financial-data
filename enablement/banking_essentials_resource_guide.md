@@ -351,7 +351,7 @@ We are helping employees address health risks and manage health care costs, incl
 - Cancer support benefit
 - No-cost virtual medical consultation
 - Get Active! employee fitness challenge
-- Whil:mobile fitness classes and coaches
+- Wellhub for fitness classes and coaches
 - Family planning and menopause support
 
 ### Emotional Wellness
