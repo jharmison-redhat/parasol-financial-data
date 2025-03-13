@@ -411,18 +411,18 @@ One-time immediate Zelle  payments process immediately and cannot be edited or c
 
 ## K. Limits
 
-The following limits apply to Zelle  transfers.  1
+The following limits apply to Zelle transfers. <sup>1</sup>
 
-|                  | Every 24 hours            | Every 7 days              | Every Month                |
-|------------------|---------------------------|---------------------------|----------------------------|
-| Consumer         | $3500 / 10 transactions   | $10,000 / 30 transactions | $20,000 / 60 transactions  |
-| Small Business 2 | $15,000 / 20 transactions | $45,000 / 60 transactions | $60,000 / 120 transactions |
+|                             | Every 24 hours            | Every 7 days              | Every Month                |
+|-----------------------------|---------------------------|---------------------------|----------------------------|
+| Consumer                    | $3500 / 10 transactions   | $10,000 / 30 transactions | $20,000 / 60 transactions  |
+| Small Business <sup>2</sup> | $15,000 / 20 transactions | $45,000 / 60 transactions | $60,000 / 120 transactions |
 
-/Private Bank and Parasol Wealth Management clients may be subject to higher dollar limits and total transfers. Please contact your advisor for more information on your limits. 1
+1. Private Bank and Parasol Wealth Management clients may be subject to higher dollar limits and total transfers. Please contact your advisor for more information on your limits.
 
-/ Zelle  send limits are set at the customer profile (User ID) and apply to all accounts visible in the 'From' dropdown when initiating a Zelle payment.  If you are a small business customer and are not receiving the small business limits, make sure you are logged in with your small business User ID. 2
+2. Zelle send limits are set at the customer profile (User ID) and apply to all accounts visible in the 'From' dropdown when initiating a Zelle payment.  If you are a small business customer and are not receiving the small business limits, make sure you are logged in with your small business User ID.
 
-The minimum transfer amount for any single Zelle  transfer is $1.00. There are no receiving limits for Zelle  transfers.
+The minimum transfer amount for any single Zelle transfer is $1.00. There are no receiving limits for Zelle transfers.
 
 ## 5. Real Time Payment Network Service
 
