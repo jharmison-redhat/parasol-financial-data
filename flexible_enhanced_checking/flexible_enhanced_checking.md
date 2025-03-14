@@ -50,7 +50,7 @@ Keep in mind, regardless of your overdraft setting, if you set up Balance Link f
 
 Please see the Personal Schedule of Fees and Deposit Agreement and Disclosures for your account terms.
 
-# Footnotes
+### Footnotes
 
 1. Our overdraft fee of $10 may apply for overdrafts created by check, recurring debit card transactions, or other electronic means. If your account is overdrawn, you must immediately bring your account to a positive balance. We pay overdrafts at our discretion and we reserve the right not to pay. For example, we typically do not pay overdrafts if your account is not in good standing.
 2. Transfers from a linked (1) brokerage account enrolled in margin lending, (2) Debt and Equity Account, (3) credit card, or (4) line of credit and/or Home Equity Line of Credit are subject to interest charges and governed by the terms and conditions of the account.
