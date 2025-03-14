@@ -7,7 +7,7 @@
 | -------- | ------- |
 | Opening Deposit   | $100 or more   |
 | Interest Rate | This account earns interest at a variable rate. You can find current rate information at parasolfinancial.com, by calling the number on your account statement or visiting a financial center. |
-| Monthly Maintenance Fee | $25.00 each month. You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $20,000 or more in your account OR Be a member of the Parasol Loyalty program. Learn more at parasolfinancial.com/preferred-rewards. |
+| Monthly Maintenance Fee | $25.00 each month. You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $20,000 or more in your account OR Be a member of the Parasol Loyalty program. Learn more at parasolfinancial.com/loyalty-program. |
 
 ## ATM fees
 

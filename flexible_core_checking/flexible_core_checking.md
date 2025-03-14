@@ -7,7 +7,7 @@
 |     |  |
 | -------- | ------- |
 | Opening Deposit   | $25 or more   |
-| Monthly Maintenance Fee | $4.95 each month. You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $500 or more in your account, OR An account owner, or child on a Family Banking account, is under the age of 25 (fiduciary accounts don't qualify), OR An owner of the account is a member of the Parasol Loyalty program. Learn more at parasolfinancial.com/preferred-rewards.    |
+| Monthly Maintenance Fee | $4.95 each month. You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $500 or more in your account, OR An account owner, or child on a Family Banking account, is under the age of 25 (fiduciary accounts don't qualify), OR An owner of the account is a member of the Parasol Loyalty program. Learn more at parasolfinancial.com/loyalty-program.    |
 
 ## ATM fees
 

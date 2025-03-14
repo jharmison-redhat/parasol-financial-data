@@ -12,7 +12,7 @@
 You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle:
 - Make at least one qualifying Direct Deposit of $250 or more to your account, OR
 - Maintain a minimum daily balance of $1,500 or more in your account, OR
-- Be a member of the Parasol Loyalty program. Learn more at parasolfinancial.com/preferred-rewards.
+- Be a member of the Parasol Loyalty program. Learn more at parasolfinancial.com/loyalty-program.
 
 ## ATM fees
 
