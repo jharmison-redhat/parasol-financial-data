@@ -65,8 +65,9 @@ Reminder: Paper checks will not work with this account.
 
 ## Additional fees
 
+| Fee type | Fee | Additional Details |
+| --- | --- | --- |
 | Statement copies             | No fee      | Paper copies available upon request. Printable statements are available in Online Banking.                                                                               |
-|------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Card replacement             | No fee      | For each ATM or debit card                                                                                                                                               |
 |                              | $15.00      | For rush delivery                                                                                                                                                        |
 | Stop payment                 | $30.00      | For each request; WAIVED for requests on debit card or Bill Pay transactions                                                                                             |
@@ -76,11 +77,7 @@ Reminder: Paper checks will not work with this account.
 | International wire transfers | $15.00      | For each incoming wire transfer: If received in a foreign currency, it will be converted into U.S. Dollars using the applicable exchange rate determined solely by us. Core Checking for Family Banking accounts can't receive incoming wire transfers. |
 |                              | No wire fee | For each outgoing wire transfer sent in foreign currency. Please be advised, exchange rate markups will apply. See below.                                                |
 |                              | $45.00      | For each outgoing wire transfer sent in U.S. Dollars |
-
-For international wire transfers, other fees may also apply, including those charged by recipient's financial institution, foreign taxes, and other fees that are part of the wire transfer process. We profit from markups associated with the currency conversion included in our exchange rate (determined solely by us). Before sending in foreign currency, you should consider factors that impact the total cost or the amount available after transfer.
-
-|     |  |
-| -------- | ------- |
+| | | For international wire transfers, other fees may also apply, including those charged by recipient's financial institution, foreign taxes, and other fees that are part of the wire transfer process. We profit from markups associated with the currency conversion included in our exchange rate (determined solely by us). Before sending in foreign currency, you should consider factors that impact the total cost or the amount available after transfer. |
 | Non-Parasol Financial Teller Withdrawal  | Per transaction, greater of $5.00 OR 3% of the amount (maximum $10.00) when you use your ATM or debit card, or card number, to make a withdrawal, transfer or payment at another bank and it is processed as a cash disbursement.   |
 
 ## Get the most out of your account
