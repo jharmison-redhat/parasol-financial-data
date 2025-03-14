@@ -8,7 +8,7 @@
 
 |     |  |  |
 | -------- | ------- |------- |
-| Monthly Maintenance Fee | $12.00 each month | You can avoid the Monthly Maintenance Fee when you meet one of the following balance requirements during each statement period: Maintain a minimum daily balance of $2,500 or more, OR Link your account to your Parasol Financial Interest Checking  or Parasol Financial Advantage  account (waiver applies to first 4 savings accounts), OR Are enrolled in the Parasol Loyalty 1 program (waiver applies to first 4 savings accounts) |
+| Monthly Maintenance Fee | $12.00 each month | You can avoid the Monthly Maintenance Fee when you meet one of the following balance requirements during each statement period: Maintain a minimum daily balance of $2,500 or more, OR Link your account to your Parasol Financial Interest Checking or Parasol Financial Flexible account (waiver applies to first 4 savings accounts), OR Are enrolled in the Parasol Loyalty 1 program (waiver applies to first 4 savings accounts) |
 
 ## Withdrawal Limit Fee and Transaction Limitations
 

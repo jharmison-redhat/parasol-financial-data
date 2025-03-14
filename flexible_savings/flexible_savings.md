@@ -11,7 +11,7 @@ Detailed Policies  - Overview of key policies and fees
 
 | | | |
 |-----|------|-----|
-| Monthly Maintenance Fee: (We'll waive this fee for the first 6 months.) | $8.00 each month | You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $500 or more in your account, OR Ask us to link your account to your Parasol Financial Flexible Premier Checking  , Parasol Financial Advantage  with Tiered Interest Checking or Parasol Financial Advantage  Regular Checking account (first 4 savings accounts), OR An owner of this account is under the age of 25 (fiduciary accounts don't qualify), OR Be a member of the Parasol Loyalty program. Learn more at parasolfinancial.com/preferred-rewards, or visit your local financial center. |
+| Monthly Maintenance Fee: (We'll waive this fee for the first 6 months.) | $8.00 each month | You can avoid the Monthly Maintenance Fee when you meet ONE of the following requirements during each statement cycle: Maintain a minimum daily balance of $500 or more in your account, OR Ask us to link your account to your Parasol Financial Flexible Premier Checking, Parasol Financial Flexible with Tiered Interest Checking or Parasol Financial Flexible Regular Checking account (first 4 savings accounts), OR An owner of this account is under the age of 25 (fiduciary accounts don't qualify), OR Be a member of the Parasol Loyalty program. Learn more at parasolfinancial.com/preferred-rewards, or visit your local financial center. |
 
 ## Interest rate policy
 
