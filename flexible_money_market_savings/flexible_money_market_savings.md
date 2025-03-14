@@ -5,7 +5,6 @@
 | -------- | ------- |
 | FDIC Coverage | This account is insured by the Federal Deposit Insurance Corporation (FDIC) and is backed by the U.S. government. The standard insurance amount is $250,000 per depositor, per insured bank, for each account ownership category. Refer to FDIC.gov/edie for more information. |
 
-
 |     |  |  |
 | -------- | ------- |------- |
 | Monthly Maintenance Fee | $12.00 each month | You can avoid the Monthly Maintenance Fee when you meet one of the following balance requirements during each statement period: Maintain a minimum daily balance of $2,500 or more, OR Link your account to your Parasol Financial Interest Checking or Parasol Financial Flexible account (waiver applies to first 4 savings accounts), OR Are enrolled in the Parasol Loyalty 1 program (waiver applies to first 4 savings accounts) |
@@ -24,7 +23,6 @@
 | Interest rate and interest calculation | Your account has a variable interest rate, which means the interest rate may change. Interest rates for your account are set at our discretion and may change at any time without notice. To calculate interest, we apply a daily periodic rate to the collected balance in your account each day. We compound and pay any interest earned monthly. Interest is only paid in whole cents and we use standard rounding rules to calculate the amount. This means that an amount less than half of one cent is rounded down to zero, and an amount of half of one cent or more is rounded up to the next whole cent. |
 | Interest rate booster | The interest rate booster is earned automatically when an account owner is enrolled in the Parasol Loyalty program. The booster increases the interest rate by at least 5%, 10% or 20% over the standard rate, and is based on the Parasol Loyalty tiers of Bronze, Silver and Gold, respectively. We may decide to pay a higher rate. |
 | Where can I find the current interest rate? | You can find the current interest rate by checking parasolfinancial.com, calling the number on your account statement or visiting a financial center. |
-
 
 ## When your deposits are available
 

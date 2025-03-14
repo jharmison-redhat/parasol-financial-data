@@ -100,7 +100,6 @@ Possible answer: Use Engage and Discover questioning to uncover the customer's n
 
 Journal prompt: What are two terms in the left column that you often use? What are the alternatives that you can replace them with?
 
-
 ## Act with empathy Introduction
 
 Empathy is understanding the feelings of another person and showing that you understand their experiences and emotions. Acting with empathy shows customers that you understand what's important to them.
@@ -217,7 +216,6 @@ Journal prompt: Imagine you are working in a bank, and you notice that a certain
 Possible answer: Show the customer how to check their balance online.
 
 © 2025 Parasol Financial Corporation. All rights reserved.
-
 
 ## Get it right
 
